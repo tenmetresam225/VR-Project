@@ -1,6 +1,6 @@
 extends Node
 
-var vr = false
+var vr = true
 var desktop = false
 var in_area = false
 var hasClicker = false

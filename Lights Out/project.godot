@@ -357,7 +357,7 @@ _global_script_class_icons={
 [application]
 
 config/name="Lights Out"
-run/main_scene="res://Launcher.tscn"
+run/main_scene="res://UI/VR/Main Menu.tscn"
 config/icon="res://icon.png"
 
 [autoload]
